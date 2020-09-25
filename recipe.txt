@@ -1,0 +1,7 @@
+avocado
+tomato
+garlic
+onion
+salt
+lime
+pepper
