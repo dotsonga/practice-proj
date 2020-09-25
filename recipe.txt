@@ -5,3 +5,4 @@ onion
 salt
 lime
 pepper
+bananas
